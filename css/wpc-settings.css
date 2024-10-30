@@ -1,0 +1,53 @@
+.vi-ui.form-table th {
+    padding-left: 1em;
+}
+
+.vi-ui.form-table tr td input {
+    /*max-width: 25rem;*/
+}
+
+.vi-ui.form-table tr td select {
+    max-width: unset;
+}
+
+.vi-ui.form-table tr td .vi-ui.fluid.dropdown {
+    -webkit-appearance: button;
+}
+
+.vi-ui.form-table tr td .wpc-radio-icons-wrap .wpc-radio-icons-label input[type=radio] {
+    display: none;
+}
+
+.vi-ui.form-table tr td .wpc-radio-icons-wrap .wpc-radio-icons-label i:before {
+    margin-right: unset;
+}
+
+.wpc_page_compare .select2-search__field {
+    width: 100% !important;
+}
+
+.wpc_page_compare .select2-container {
+    max-width: 100% !important;
+    height: 38px !important;
+}
+
+.wpc_page_compare .select2-selection {
+    height: 100% !important;
+}
+
+.wpc_page_compare .select2-selection__rendered {
+    padding: 0.5em 1em !important;
+    height: 24px !important;
+}
+
+.wpc_page_compare .select2-selection__arrow {
+    display: none !important;
+}
+
+.wpc_page_compare .select2-container--default .select2-selection--single {
+    border: 1px solid rgba(34, 36, 38, .15) !important;
+}
+
+.wpc_page_compare .select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 24px !important;
+}

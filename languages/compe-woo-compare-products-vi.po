@@ -1,0 +1,756 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: COMPE - WooCommerce Compare Products\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-24 10:13+0000\n"
+"PO-Revision-Date: 2022-12-02 01:34+0000\n"
+"Last-Translator: VillaTheme\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.1.1\n"
+"X-Domain: compe-woo-compare-products"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:209
+msgid " to show only on cart page and checkout page. Use "
+msgstr " để chỉ hiện thị trên trang giỏ hàng và trang thanh toán. Sử dụng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:211
+msgid ""
+" to show only on page have post id 42, 54 or 6 and it isn't home page. It is "
+"a conditional expression."
+msgstr ""
+" để chỉ hiện thị trên trang có post id 42, 54 hoặc 6 và không phải là trang "
+"chủ. Đây là cách hoạt động của thẻ điều kiện."
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:238
+msgid "3D flip horizontal"
+msgstr "3D flip horizontal"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:240
+msgid "3D flip vertical"
+msgstr "3D flip vertical"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:250
+msgid "3D Rotate from bottom"
+msgstr "3D Rotate from bottom"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:252
+msgid "3D Rotate in from left"
+msgstr "3D Rotate in from left"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:242
+msgid "3D sign"
+msgstr "3D sign"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:248
+msgid "3D slit"
+msgstr "3D slit"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1086
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1190
+msgid "Above add to cart"
+msgstr "Trên nút thêm vào giỏ hàng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:259
+msgid "Action after click compared"
+msgstr "Hành động sau khi nhấp vào so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/includes/custom-controls.php:101
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/includes/custom-controls.php:122
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/includes/custom-controls.php:136
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/includes/custom-controls.php:159
+msgid "Add items"
+msgstr "Thêm mặt hàng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1621
+msgid "Add to Cart background color"
+msgstr "Màu nền nút thêm vào giỏ hàng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1604
+msgid "Add to Cart color"
+msgstr "Màu nút thêm vào giỏ hàng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1066
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1167
+msgid "Added to compare list color"
+msgstr "Màu khi đã thêm vào danh sách so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1447
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1672
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1738
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1837
+msgid "Align"
+msgstr "Căn lề"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1961
+msgid "Alternating color"
+msgstr "Màu thay thế"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/includes/custom-controls.php:148
+msgid "Available components"
+msgstr "Thành phần có sẵn"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:811
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:875
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:939
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1049
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1149
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1413
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1465
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1792
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1873
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2157
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2260
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2307
+msgid "Background color"
+msgstr "Màu nền"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1889
+msgid "Border"
+msgstr "Viền"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1345
+msgid "Bottom Left"
+msgstr "Phía dưới bên trái"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1346
+msgid "Bottom Right"
+msgstr "Phía dưới bên phải"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1495
+msgid "Button background color"
+msgstr "Màu nền nút"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:377
+msgid "Button compare"
+msgstr "Nút so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1101
+msgid "Button on list product"
+msgstr "Nút trên trang danh sách sản phẩm"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1001
+msgid "Button on single product"
+msgstr "Nút trên trang chi tiết sản phẩm"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2121
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2224
+msgid "Button rounded corner(px)"
+msgstr "Bo góc cho nút(px)"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1481
+msgid "Button text"
+msgstr "Tiêu đề nút"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1512
+msgid "Button text color"
+msgstr "Màu tiêu đề nút"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1676
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1742
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1841
+msgid "Center"
+msgstr "Ở giữa"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/widget.php:57
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/widget.php:66
+msgid "Clear"
+msgstr "Xóa"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:891
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2075
+msgid "Clear button"
+msgstr "Xóa nút"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/frontend/frontend.php:1318
+msgid "Close"
+msgstr "Đóng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:794
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1132
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1945
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2140
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2243
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2290
+msgid "Color"
+msgstr "Màu"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1978
+msgid "Column"
+msgstr "Cột"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:207
+msgid ""
+"Combining 2 or more conditionals using || and &&. If 1 of the conditionals "
+"matched. e.g: use "
+msgstr ""
+"Kết hợp 2 hoặc nhiều điều kiện sử dụng || và &&, nếu một trong các điều kiện "
+"đáp ứng. Ví dụ: sử dụng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/widget.php:58
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/widget.php:67
+msgid "Compare"
+msgstr "So sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:827
+msgid "Compare button"
+msgstr "Nút so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:363
+msgid "Compare button on the Product Catalog"
+msgstr "Nút so sánh trên trang danh mục sản phẩm"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1219
+msgid "Compare icon"
+msgstr "Biểu tượng so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:395
+msgid "Compared text"
+msgstr "Tiêu đề sau khi đã thêm vào danh sách"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:154
+msgid "Comparison page"
+msgstr "Trang so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/admin.php:35
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:75
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:76
+msgid "Compe"
+msgstr "Compe"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:135
+msgid "Compe - Products Compare for WooCommerce"
+msgstr "Compe - Products Compare for WooCommerce"
+
+#. Name of the plugin
+msgid "COMPE - WooCommerce Compare Products"
+msgstr "COMPE - WooCommerce Compare Products"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:196
+msgid "Conditional tag"
+msgstr "Thẻ điều kiện"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1808
+msgid "Content"
+msgstr "Nội dung"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2354
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2369
+msgid "Custom CSS"
+msgstr "Tùy chỉnh CSS"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1922
+msgid "Dashed"
+msgstr "Dashed"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:436
+msgid "Design"
+msgstr "Thiết kế"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/frontend/frontend.php:1257
+msgid "Display"
+msgstr "Hiển thị"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1576
+msgid "Display \"Add to cart\" button"
+msgstr "Hiển thị nút \"Thêm vào giỏ hàng\""
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:951
+msgid "Display content"
+msgstr "Hiển thị nội dung"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1550
+msgid "Display image"
+msgstr "Hiển thị ảnh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:402
+msgid "Display text of button compare after add to compare list"
+msgstr "Hiển thị tiêu đề nút so sánh sau khi thêm vào danh sách so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1563
+msgid "Display title"
+msgstr "Hiển thị tiêu đề"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/frontend/frontend.php:1405
+msgid "Do not show again"
+msgstr "Không hiển thị lại"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/frontend/frontend.php:160
+msgid "Do you want to remove all products from the compare list?"
+msgstr "Bạn có muốn xóa tất cả sản phẩm khỏi danh sách so sánh?"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/frontend/frontend.php:161
+msgid "Do you want to remove this product from the compare list?"
+msgstr "Bạn có muốn xóa sản phẩm này khỏi danh sách so sánh?"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1921
+msgid "Dotted"
+msgstr "Dotted"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1924
+msgid "Double"
+msgstr "Double"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/includes/custom-controls.php:107
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/includes/custom-controls.php:165
+msgid "Edit this item"
+msgstr "Sửa mặt hàng này"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:987
+msgid "Element style"
+msgstr "Kiểu của phần tử"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:316
+msgid "Enable sidebar"
+msgstr "Bật sideabar"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:298
+msgid ""
+"Enable this to allow customer remove selected items in the comparison table "
+"with a Remove button"
+msgstr ""
+"Bật để cho phép khách hàng xóa mặt hàng đã chọn trong bảng so sánh bằng một "
+"nút xóa"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2048
+msgid "Even columns color"
+msgstr "Màu cột chẵn"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2012
+msgid "Even rows color"
+msgstr "Màu hàng chẵn"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:224
+msgid "Fade in and scale up"
+msgstr "Fade in and scale up"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:232
+msgid "Fall"
+msgstr "Fall"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/frontend/frontend.php:1251
+msgid "Fields"
+msgstr "Các trường"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1708
+msgid "Fields header"
+msgstr "Trường tiêu đề"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1280
+msgid "Floating icon"
+msgstr "Biểu tượng so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:346
+msgid "Floating icon open"
+msgstr "Mở biểu tượng so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:775
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:839
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:903
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1013
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1113
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1720
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1820
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2087
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2190
+msgid "Font size(px)"
+msgstr "Kích cỡ chữ(px)"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1756
+msgid "Font weight"
+msgstr "Độ đậm của chữ"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/frontend/frontend.php:1254
+msgid "Freeze"
+msgstr "Freeze"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:148
+msgid "General"
+msgstr "Cài đặt chung"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:441
+msgid "Go to design now"
+msgstr "Đi tới trang thiết kế ngay"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1925
+msgid "Groove"
+msgstr "Groove"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1692
+msgid "Header background color"
+msgstr "Màu nền tiêu đề"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1929
+msgid "Hidden"
+msgstr "Ẩn"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:331
+msgid "Hide sidebar/floating icon when compare list empty"
+msgstr "Ẩn sidebar/biểu tượng so sánh khi danh sách so sánh trống"
+
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr "http://villatheme.com"
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/compe-woocommerce-compare-products/"
+msgstr "https://villatheme.com/extensions/compe-woocommerce-compare-products/"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1396
+msgid "Icon color"
+msgstr "Màu biểu tượng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1341
+msgid "Icon position"
+msgstr "Vị trí biểu tượng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1377
+msgid "Icon wrap rounded corner(px)"
+msgstr "Bo viền cho biểu tượng(px)"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1360
+msgid "Icons size(px)"
+msgstr "Kích cỡ biểu tượng(px)"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1589
+msgid "Image height"
+msgstr "Độ cao ảnh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/widget.php:75
+msgid "Input at least 3 keyword to search..."
+msgstr "Nhập ít nhất 3 từ khóa để tìm kiếm..."
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1927
+msgid "Inset"
+msgstr "Inset"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:246
+msgid "Just me"
+msgstr "Chỉ tôi"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1449
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1674
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1740
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1839
+msgid "Left"
+msgstr "Bên trái"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:203
+msgid ""
+"Let you control on which pages compare elements (popup, floating icon, side "
+"bar) will appear using "
+msgstr ""
+"Cho phép bạn kiểm soát trên những trang nào các nội dung so sánh (popup, "
+"biểu tượng so sánh, sidebar) sẽ xuất hiện sử dụng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:276
+msgid "Limit compared item"
+msgstr "Giới hạn mặt hàng so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:230
+msgid "Newspaper"
+msgstr "Newspaper"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/frontend/frontend.php:1309
+msgid "Next"
+msgstr "Tiếp"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/widget.php:62
+msgid "No product in compare list"
+msgstr "Không có sản phẩm trong danh sách so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/widget.php:107
+msgid "No products in compare list"
+msgstr "Không có sản phẩm trong danh sách so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/widget.php:184
+#, php-format
+msgid "No results found for \"%s\""
+msgstr "Không tìm thấy kết quả cho \"%s\""
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1930
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1976
+msgid "None"
+msgstr "Không"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2030
+msgid "Odd columns color"
+msgstr "Màu cột lẻ"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1994
+msgid "Odd rows color"
+msgstr "Màu hàng lẻ"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1185
+msgid "On top left of the image"
+msgstr "Trên cùng bên trái ảnh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1186
+msgid "On top right of the image"
+msgstr "Trên cùng bên phải ảnh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1204
+msgid "Only display on hover image"
+msgstr "Chỉ hiển thị trên ảnh di chuột qua"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1928
+msgid "Outset"
+msgstr "Outset"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:268
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:355
+msgid "Page"
+msgstr "Trang"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:159
+msgid "Please Fill In Your Product Title"
+msgstr "Vui lòng nhập tiêu đề sản phẩm"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/compe-woo-compare-products.php:32
+msgid ""
+"Please install and activate WooCommerce to use COMPE - WooCommerce Compare "
+"Products."
+msgstr ""
+"Vui lòng cài đặt và kích hoạt WooCommerce để sử dụng COMPE - WooCommerce "
+"Compare Products."
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:181
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:266
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:353
+msgid "Popup"
+msgstr "Popup"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:218
+msgid "Popup effect"
+msgstr "Hiệu ứng Popup"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/frontend/frontend.php:1306
+msgid "Previous"
+msgstr "Trước"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/widget.php:87
+msgid "Product Compare"
+msgstr "Sản phẩm so sánh "
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/widget.php:120
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/includes/custom-controls.php:233
+msgid "Remove"
+msgstr "Xóa"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/frontend/frontend.php:1327
+msgid "Remove all"
+msgstr "Xóa tất cả"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:288
+msgid "Remove button after add to list"
+msgstr "Nút xóa sau khi thêm vào danh sách"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:304
+msgid "Remove button text"
+msgstr "Tiêu đề nút xóa"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/includes/custom-controls.php:110
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/includes/custom-controls.php:167
+msgid "Remove this item"
+msgstr "Xóa mặt hàng này"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1926
+msgid "Ridge"
+msgstr "Ridge"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1450
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1675
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1741
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1840
+msgid "Right"
+msgstr "Bên phải "
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1977
+msgid "Row"
+msgstr "Hàng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:449
+msgid "Save"
+msgstr "Lưu"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:270
+msgid "Screen redirect after click on added product button compare"
+msgstr "Chuyển hướng trang sau khi nhấp vào so sánh sản phẩm được thêm"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:357
+msgid "Screen redirect after click on floating icon button"
+msgstr "Chuyển hướng trang sau khi nhấp vào nút biểu tượng so sánh"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2341
+msgid "Search button background color"
+msgstr "Màu nền nút tìm kiếm"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2324
+msgid "Search button color"
+msgstr "Màu chữ nút tìm kiếm"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2276
+msgid "Search field"
+msgstr "Trường tìm kiếm"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/frontend/frontend.php:887
+msgid "Select options"
+msgstr "Lựa chọn tùy chọn"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1082
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1183
+msgid "Select position"
+msgstr "Lựa chọn vị trí"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2178
+msgid "Setting button"
+msgstr "Cài đặt nút"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1429
+msgid "Side bar"
+msgstr "Side bar"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:234
+msgid "Side fall"
+msgstr "Side fall"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2104
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2207
+msgid "Size(%)"
+msgstr "Kích cỡ(%)"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:236
+msgid "Slide and stick to top"
+msgstr "Slide and stick to top"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:228
+msgid "Slide from the bottom"
+msgstr "Slide from the bottom"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:226
+msgid "Slide from the right"
+msgstr "Slide from the right"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1923
+msgid "Solid"
+msgstr "Solid"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1919
+msgid "Style"
+msgstr "Kiểu"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:244
+msgid "Super scaled"
+msgstr "Super scaled"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:2061
+msgid "Table buttons"
+msgstr "Nút trong bảng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1524
+msgid "Table content"
+msgstr "Nội dung bảng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1538
+msgid "Table header"
+msgstr "Tiêu đề bảng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:763
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:383
+msgid "Text"
+msgstr "Tiêu đề"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:858
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:922
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1032
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1775
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1856
+msgid "Text color"
+msgstr "Màu tiêu đề"
+
+#. Description of the plugin
+msgid "The effective way to compare product for WooCommerce"
+msgstr "Giải pháp hiệu quả để so sánh các sản phẩm của WooCommerce"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1655
+msgid "Title color"
+msgstr "Màu tiêu đề "
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1636
+msgid "Title font size(px)"
+msgstr "Kích cỡ chữ của tiêu đề(px)"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1343
+msgid "Top Left"
+msgstr "Phía trên bên trái"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1344
+msgid "Top Right"
+msgstr "Phía trên bên phải"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1974
+msgid "Type"
+msgstr "Kiểu"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1087
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1191
+msgid "Under add to cart"
+msgstr "Phía dưới nút thêm vào giỏ hàng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1189
+msgid "Under price"
+msgstr "Phía dưới giá"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1085
+msgid "Under price & rating"
+msgstr "Phía dưới giá & xếp hạng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1188
+msgid "Under rating"
+msgstr "Phía dưới xếp hạng"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1084
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1187
+msgid "Under title"
+msgstr "Dưới tiêu đề"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/widget.php:26
+msgid "VI WooCommerce Product Compare"
+msgstr "VI WooCommerce Product Compare"
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/widget.php:27
+msgid "VillaTheme COMPE - WooCommerce Compare Products"
+msgstr "VillaTheme COMPE - WooCommerce Compare Products"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:731
+msgid "Widget Compare"
+msgstr "So sánh trên thanh tiện ích"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:750
+msgid "Widget header"
+msgstr "Tiêu đề trên thanh tiện ích"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:1901
+msgid "Width(px)"
+msgstr "Độ rộng(px)"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/design.php:714
+msgid "Woo Product Compare"
+msgstr "Woo Product Compare"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/admin/settings.php:204
+msgid "WP's conditional tags"
+msgstr "Thẻ điều kiện của WordPress"
+
+#: E:/swag-bag/FREE-VERSION/compe-woo-compare-products/compe-woo-compare-products/frontend/frontend.php:121
+msgid "You can add a maximum of {limit} products to the compare table."
+msgstr "Bạn có thể thêm tối đa {limit} sản phẩm vào bảng so sánh."

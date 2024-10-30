@@ -1,0 +1,121 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?2472865e179ca606bf70995bbaea24cb") format("truetype"),
+url("./flaticon.woff?2472865e179ca606bf70995bbaea24cb") format("woff"),
+url("./flaticon.woff2?2472865e179ca606bf70995bbaea24cb") format("woff2"),
+url("./flaticon.eot?2472865e179ca606bf70995bbaea24cb#iefix") format("embedded-opentype"),
+url("./flaticon.svg?2472865e179ca606bf70995bbaea24cb#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "share-files": "\f101",
+    "ab-testing": "\f102",
+    "ab-testing-1": "\f103",
+    "compare": "\f104",
+    "compare-1": "\f105",
+    "compare-2": "\f106",
+    "comparative": "\f107",
+    "risk": "\f108",
+    "compare-3": "\f109",
+    "decision": "\f10a",
+    "compare-4": "\f10b",
+    "advantages": "\f10c",
+    "compare-5": "\f10d",
+    "computer": "\f10e",
+    "diagram": "\f10f",
+    "balance": "\f110",
+    "file": "\f111",
+    "lists": "\f112",
+    "website": "\f113",
+    "skill": "\f114",
+    "file-1": "\f115",
+    "phone": "\f116",
+    "compare-6": "\f117",
+    "compare-7": "\f118",
+);
+
+.flaticon-share-files:before {
+    content: map-get($flaticon-map, "share-files");
+}
+.flaticon-ab-testing:before {
+    content: map-get($flaticon-map, "ab-testing");
+}
+.flaticon-ab-testing-1:before {
+    content: map-get($flaticon-map, "ab-testing-1");
+}
+.flaticon-compare:before {
+    content: map-get($flaticon-map, "compare");
+}
+.flaticon-compare-1:before {
+    content: map-get($flaticon-map, "compare-1");
+}
+.flaticon-compare-2:before {
+    content: map-get($flaticon-map, "compare-2");
+}
+.flaticon-comparative:before {
+    content: map-get($flaticon-map, "comparative");
+}
+.flaticon-risk:before {
+    content: map-get($flaticon-map, "risk");
+}
+.flaticon-compare-3:before {
+    content: map-get($flaticon-map, "compare-3");
+}
+.flaticon-decision:before {
+    content: map-get($flaticon-map, "decision");
+}
+.flaticon-compare-4:before {
+    content: map-get($flaticon-map, "compare-4");
+}
+.flaticon-advantages:before {
+    content: map-get($flaticon-map, "advantages");
+}
+.flaticon-compare-5:before {
+    content: map-get($flaticon-map, "compare-5");
+}
+.flaticon-computer:before {
+    content: map-get($flaticon-map, "computer");
+}
+.flaticon-diagram:before {
+    content: map-get($flaticon-map, "diagram");
+}
+.flaticon-balance:before {
+    content: map-get($flaticon-map, "balance");
+}
+.flaticon-file:before {
+    content: map-get($flaticon-map, "file");
+}
+.flaticon-lists:before {
+    content: map-get($flaticon-map, "lists");
+}
+.flaticon-website:before {
+    content: map-get($flaticon-map, "website");
+}
+.flaticon-skill:before {
+    content: map-get($flaticon-map, "skill");
+}
+.flaticon-file-1:before {
+    content: map-get($flaticon-map, "file-1");
+}
+.flaticon-phone:before {
+    content: map-get($flaticon-map, "phone");
+}
+.flaticon-compare-6:before {
+    content: map-get($flaticon-map, "compare-6");
+}
+.flaticon-compare-7:before {
+    content: map-get($flaticon-map, "compare-7");
+}
